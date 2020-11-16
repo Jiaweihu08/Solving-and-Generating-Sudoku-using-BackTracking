@@ -1,9 +1,7 @@
 # Solving-and-Generating-Sudoku-using-BackTracking
 ## Implementing Backtracking for Sudoku Solving and Generation with Pygame
 
-### - Implemented Backtracking to solve 9x9 Sudoku puzzles.
-
-### - Implemented Backtracing to solve 9x9 Sudoku puzzles
+### - Implemented Backtracking to solve 9x9 Sudoku puzzles
 
 ### - Sudoku generation:
 #### 1. Random grid initialization
