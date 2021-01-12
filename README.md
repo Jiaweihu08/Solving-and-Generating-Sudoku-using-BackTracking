@@ -1,7 +1,9 @@
 # Solving and Generating Sudoku Puzzles using Backtracking
 
+![](./sudoku_demo.gif)
+
 ## Objective:
-## - Visualize Backtracking algorithm by solving sudoku puzzles
+#### - Visualize Backtracking algorithm by solving sudoku puzzles
 
 ## Results:
 ### - Implemented Backtracking to solve 9x9 Sudoku puzzles
@@ -16,7 +18,5 @@
 Demo: https://youtu.be/oe_doxDKWyk
 
 ## How to use it:
-#### 1. Clone the code
-#### 2. Instantiate a new environment
-#### 3. Install required libraries: "pip install -r requirements.txt"
-#### 4. run "python3 sudoku.py"
+#### 1. Install required libraries: pip install -r requirements.txt
+#### 4. run: python3 sudoku.py
